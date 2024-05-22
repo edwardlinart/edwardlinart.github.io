@@ -269,6 +269,7 @@ btn-color-2:hover {
     margin: auto;
     width: 80%;
     text-align: center;
+    border: 3px solid green;
 }
 
 .about-containers,
